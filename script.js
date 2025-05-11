@@ -38,8 +38,8 @@ document.getElementById('email-form').addEventListener('submit', (e) => {
   if (email) {
     const instructions = `
       <p>Send 2,500 to:</p>
-      <p>7088246238</p>
-      <p>Palmpay</p>
+      <p>2078332452</p>
+      <p>kuda</p>
       <p>Reference: ${email}</p>
     `;
     document.getElementById('instructions').innerHTML = instructions;
